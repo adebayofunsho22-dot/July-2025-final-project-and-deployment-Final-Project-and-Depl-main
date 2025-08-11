@@ -8,4 +8,3 @@
 ├── js/
 │   └── script.js    (Main JavaScript file)
 └── README.md
-Live WebsiteThis project is deployed using GitHub Pages.Live URL: (Insert your live URL here after deployment)How to Run LocallyClone this repository: git clone [repository-url]Open the index.html file in your web browser.How to DeployTo deploy this project to GitHub Pages:Push your code to your GitHub repository.Go to the repository's Settings > Pages page.Select the main branch and the / (root) folder.Click Save. Your site will be live in a few moments.
